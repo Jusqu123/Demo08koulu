@@ -14,18 +14,19 @@ namespace demo08koulu
             Console.Write("monta kertaa noppa lentää ");
             string kerta = Console.ReadLine();        
             int number;
+            double summa=0;
             bool result = int.TryParse(kerta, out number);
             for (int i=1;i<= number; i++)
             {
             
                 int luku = noppa.Heita(); //1-6
                 Console.WriteLine("Luku on {0}", luku);
-           
-         
+                summa = summa + luku;
             }
-            int average;
-            average = (/ number);///TÄHÄN RATKAISU 
+            double average;
+            average = (summa / number);///TÄHÄN RATKAISU!!!!! 
             Console.WriteLine("keskiarvo on {0}", average);
+
 
         }
     }
