@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo08Laskukone", "Demo08Laskukone\Demo08Laskukone.csproj", "{E3825A84-780B-440A-BC63-EB220B4E9837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo08LaskukoneTests", "Demo08LaskukoneTests\Demo08LaskukoneTests.csproj", "{FE5DBC64-5B43-4755-A797-A6AD7CC6836A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo08koulu", "demo08koulu\demo08koulu.csproj", "{FA47B360-2F1D-4F1E-A563-5F7E724D5C76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3825A84-780B-440A-BC63-EB220B4E9837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3825A84-780B-440A-BC63-EB220B4E9837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3825A84-780B-440A-BC63-EB220B4E9837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3825A84-780B-440A-BC63-EB220B4E9837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5DBC64-5B43-4755-A797-A6AD7CC6836A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5DBC64-5B43-4755-A797-A6AD7CC6836A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5DBC64-5B43-4755-A797-A6AD7CC6836A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5DBC64-5B43-4755-A797-A6AD7CC6836A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA47B360-2F1D-4F1E-A563-5F7E724D5C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA47B360-2F1D-4F1E-A563-5F7E724D5C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA47B360-2F1D-4F1E-A563-5F7E724D5C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA47B360-2F1D-4F1E-A563-5F7E724D5C76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
